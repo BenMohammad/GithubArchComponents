@@ -1,0 +1,2 @@
+rootProject.name='GithubArchComponents'
+include ':app'
